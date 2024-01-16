@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+body {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+header {
+  width: 100%;
+}
+header {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.headerdiv img {
+  width: 200px;
+  height: 200px;
+}
+main {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+section {
+  display: flex;
+  flex-wrap: wrap;
+  
+}
